@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\bin\Debug\net8.0\PB201StringArray.exe
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\bin\Debug\net8.0\PB201StringArray.deps.json
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\bin\Debug\net8.0\PB201StringArray.runtimeconfig.json
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\bin\Debug\net8.0\PB201StringArray.dll
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\bin\Debug\net8.0\PB201StringArray.pdb
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.dll
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\refint\PB201StringArray.dll
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.pdb
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\PB201StringArray.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201StringArray\PB201StringArray\obj\Debug\net8.0\ref\PB201StringArray.dll

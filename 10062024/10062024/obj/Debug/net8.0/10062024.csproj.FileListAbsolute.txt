@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\10062024\10062024\bin\Debug\net8.0\10062024.exe
+C:\Users\asus\Desktop\10062024\10062024\bin\Debug\net8.0\10062024.deps.json
+C:\Users\asus\Desktop\10062024\10062024\bin\Debug\net8.0\10062024.runtimeconfig.json
+C:\Users\asus\Desktop\10062024\10062024\bin\Debug\net8.0\10062024.dll
+C:\Users\asus\Desktop\10062024\10062024\bin\Debug\net8.0\10062024.pdb
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.AssemblyInfo.cs
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.dll
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\refint\10062024.dll
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.pdb
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\10062024.genruntimeconfig.cache
+C:\Users\asus\Desktop\10062024\10062024\obj\Debug\net8.0\ref\10062024.dll

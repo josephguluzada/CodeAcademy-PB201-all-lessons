@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\bin\Debug\net8.0\PB201AlgorithmsLoops.exe
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\bin\Debug\net8.0\PB201AlgorithmsLoops.deps.json
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\bin\Debug\net8.0\PB201AlgorithmsLoops.runtimeconfig.json
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\bin\Debug\net8.0\PB201AlgorithmsLoops.dll
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\bin\Debug\net8.0\PB201AlgorithmsLoops.pdb
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.dll
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\refint\PB201AlgorithmsLoops.dll
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.pdb
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\PB201AlgorithmsLoops.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201AlgorithmsLoops\PB201AlgorithmsLoops\obj\Debug\net8.0\ref\PB201AlgorithmsLoops.dll

@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\bin\Debug\net8.0\MyHelperLibrary.deps.json
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\bin\Debug\net8.0\MyHelperLibrary.dll
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\bin\Debug\net8.0\MyHelperLibrary.pdb
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\MyHelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\MyHelperLibrary.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\MyHelperLibrary.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\MyHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\MyHelperLibrary.dll
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\refint\MyHelperLibrary.dll
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\MyHelperLibrary.pdb
+C:\Users\asus\Desktop\PB20104062024\MyHelperLibrary\obj\Debug\net8.0\ref\MyHelperLibrary.dll

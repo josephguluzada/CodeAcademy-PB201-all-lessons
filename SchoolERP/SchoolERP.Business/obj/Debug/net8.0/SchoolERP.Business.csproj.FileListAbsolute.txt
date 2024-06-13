@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\SchoolERP.Business.deps.json
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\SchoolERP.Business.dll
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\SchoolERP.Business.pdb
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.AssemblyInfo.cs
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.dll
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\refint\SchoolERP.Business.dll
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.pdb
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\ref\SchoolERP.Business.dll
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\SchoolERP.Data.dll
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\ShcoolERP.Core.dll
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\SchoolERP.Data.pdb
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\bin\Debug\net8.0\ShcoolERP.Core.pdb
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolERP.Business.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\SchoolERP\SchoolERP.Business\obj\Debug\net8.0\SchoolER.918714BC.Up2Date

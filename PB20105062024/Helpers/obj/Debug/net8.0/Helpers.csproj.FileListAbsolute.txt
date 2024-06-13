@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\PB20105062024\Helpers\bin\Debug\net8.0\Helpers.deps.json
+C:\Users\asus\Desktop\PB20105062024\Helpers\bin\Debug\net8.0\Helpers.dll
+C:\Users\asus\Desktop\PB20105062024\Helpers\bin\Debug\net8.0\Helpers.pdb
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\Helpers.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\Helpers.dll
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\refint\Helpers.dll
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\Helpers.pdb
+C:\Users\asus\Desktop\PB20105062024\Helpers\obj\Debug\net8.0\ref\Helpers.dll

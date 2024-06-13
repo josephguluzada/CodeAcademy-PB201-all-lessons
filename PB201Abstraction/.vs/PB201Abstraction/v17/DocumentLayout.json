@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|c:\\users\\asus\\desktop\\pb201abstraction\\pb201virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|solutionrelative:pb201virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E03EB7F-95AF-4ABF-9540-1D356C94DD15}|PB201Abstraction\\PB201Abstraction.csproj|c:\\users\\asus\\desktop\\pb201abstraction\\pb201abstraction\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E03EB7F-95AF-4ABF-9540-1D356C94DD15}|PB201Abstraction\\PB201Abstraction.csproj|solutionrelative:pb201abstraction\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E03EB7F-95AF-4ABF-9540-1D356C94DD15}|PB201Abstraction\\PB201Abstraction.csproj|c:\\users\\asus\\desktop\\pb201abstraction\\pb201abstraction\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E03EB7F-95AF-4ABF-9540-1D356C94DD15}|PB201Abstraction\\PB201Abstraction.csproj|solutionrelative:pb201abstraction\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|c:\\users\\asus\\desktop\\pb201abstraction\\pb201virtual\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|solutionrelative:pb201virtual\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|c:\\users\\asus\\desktop\\pb201abstraction\\pb201virtual\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|solutionrelative:pb201virtual\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|c:\\users\\asus\\desktop\\pb201abstraction\\pb201virtual\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD362B-5DB5-427F-A4B2-341C2DEA94B3}|PB201Virtual\\PB201Virtual.csproj|solutionrelative:pb201virtual\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Abstraction\\Test.cs",
+              "RelativeDocumentMoniker": "PB201Abstraction\\Test.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Abstraction\\Test.cs",
+              "RelativeToolTip": "PB201Abstraction\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:35:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Abstraction\\Animal.cs",
+              "RelativeDocumentMoniker": "PB201Abstraction\\Animal.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Abstraction\\Animal.cs",
+              "RelativeToolTip": "PB201Abstraction\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:34:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Rectangle.cs",
+              "RelativeDocumentMoniker": "PB201Virtual\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Rectangle.cs",
+              "RelativeToolTip": "PB201Virtual\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:23:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Circle.cs",
+              "RelativeDocumentMoniker": "PB201Virtual\\Circle.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Circle.cs",
+              "RelativeToolTip": "PB201Virtual\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:17:06.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Shape.cs",
+              "RelativeDocumentMoniker": "PB201Virtual\\Shape.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Shape.cs",
+              "RelativeToolTip": "PB201Virtual\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:13:37.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Program.cs",
+              "RelativeDocumentMoniker": "PB201Virtual\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Abstraction\\PB201Virtual\\Program.cs",
+              "RelativeToolTip": "PB201Virtual\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T13:12:15.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

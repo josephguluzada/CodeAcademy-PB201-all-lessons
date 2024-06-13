@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10062024", "10062024\10062024.csproj", "{46F9EA7F-B8DA-42F3-9BD1-CD60725C9591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{C4D14482-2495-4122-B5D5-A509B500DBEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB201Tupples", "PB201Tupples\PB201Tupples.csproj", "{735157CF-C3AC-4272-BD1D-18D33E908644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F9EA7F-B8DA-42F3-9BD1-CD60725C9591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F9EA7F-B8DA-42F3-9BD1-CD60725C9591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F9EA7F-B8DA-42F3-9BD1-CD60725C9591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F9EA7F-B8DA-42F3-9BD1-CD60725C9591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D14482-2495-4122-B5D5-A509B500DBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D14482-2495-4122-B5D5-A509B500DBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D14482-2495-4122-B5D5-A509B500DBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D14482-2495-4122-B5D5-A509B500DBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735157CF-C3AC-4272-BD1D-18D33E908644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735157CF-C3AC-4272-BD1D-18D33E908644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735157CF-C3AC-4272-BD1D-18D33E908644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735157CF-C3AC-4272-BD1D-18D33E908644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A491719-9931-4889-9F52-2C94BD5B0049}
+	EndGlobalSection
+EndGlobal

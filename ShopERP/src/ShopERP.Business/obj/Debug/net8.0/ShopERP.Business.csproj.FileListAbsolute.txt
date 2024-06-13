@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Business.deps.json
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Business.dll
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Business.pdb
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.AssemblyInfo.cs
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.dll
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\refint\ShopERP.Business.dll
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.pdb
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ref\ShopERP.Business.dll
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Core.dll
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Data.dll
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Data.pdb
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\bin\Debug\net8.0\ShopERP.Core.pdb
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP.Business.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\ShopERP\src\ShopERP.Business\obj\Debug\net8.0\ShopERP..F170E8C1.Up2Date

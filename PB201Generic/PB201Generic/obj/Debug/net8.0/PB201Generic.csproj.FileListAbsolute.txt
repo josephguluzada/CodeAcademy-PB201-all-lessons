@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\bin\Debug\net8.0\PB201Generic.exe
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\bin\Debug\net8.0\PB201Generic.deps.json
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\bin\Debug\net8.0\PB201Generic.runtimeconfig.json
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\bin\Debug\net8.0\PB201Generic.dll
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\bin\Debug\net8.0\PB201Generic.pdb
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.dll
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\refint\PB201Generic.dll
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.pdb
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\PB201Generic.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201Generic\PB201Generic\obj\Debug\net8.0\ref\PB201Generic.dll

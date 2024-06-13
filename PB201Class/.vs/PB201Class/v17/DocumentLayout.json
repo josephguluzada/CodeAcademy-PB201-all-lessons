@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PB201Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|c:\\users\\asus\\desktop\\pb201class\\pb201classtasksolution\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|solutionrelative:pb201classtasksolution\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|c:\\users\\asus\\desktop\\pb201class\\pb201classtasksolution\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|solutionrelative:pb201classtasksolution\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|c:\\users\\asus\\desktop\\pb201class\\pb201classtasksolution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|solutionrelative:pb201classtasksolution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|c:\\users\\asus\\desktop\\pb201class\\pb201classtasksolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2C07D5-7361-4692-B393-C1527878526F}|PB201ClassTaskSolution\\PB201ClassTaskSolution.csproj|solutionrelative:pb201classtasksolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Bicycle.cs",
+              "RelativeDocumentMoniker": "PB201ClassTaskSolution\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Bicycle.cs",
+              "RelativeToolTip": "PB201ClassTaskSolution\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:24:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Car.cs",
+              "RelativeDocumentMoniker": "PB201ClassTaskSolution\\Car.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Car.cs",
+              "RelativeToolTip": "PB201ClassTaskSolution\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:21:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Vehicle.cs",
+              "RelativeDocumentMoniker": "PB201ClassTaskSolution\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Vehicle.cs",
+              "RelativeToolTip": "PB201ClassTaskSolution\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:21:10.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Program.cs",
+              "RelativeDocumentMoniker": "PB201ClassTaskSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Class\\PB201ClassTaskSolution\\Program.cs",
+              "RelativeToolTip": "PB201ClassTaskSolution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:20:47.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

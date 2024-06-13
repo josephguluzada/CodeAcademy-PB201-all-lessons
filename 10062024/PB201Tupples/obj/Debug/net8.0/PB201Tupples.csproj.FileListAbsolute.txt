@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\10062024\PB201Tupples\bin\Debug\net8.0\PB201Tupples.exe
+C:\Users\asus\Desktop\10062024\PB201Tupples\bin\Debug\net8.0\PB201Tupples.deps.json
+C:\Users\asus\Desktop\10062024\PB201Tupples\bin\Debug\net8.0\PB201Tupples.runtimeconfig.json
+C:\Users\asus\Desktop\10062024\PB201Tupples\bin\Debug\net8.0\PB201Tupples.dll
+C:\Users\asus\Desktop\10062024\PB201Tupples\bin\Debug\net8.0\PB201Tupples.pdb
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.AssemblyInfo.cs
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.dll
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\refint\PB201Tupples.dll
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.pdb
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\PB201Tupples.genruntimeconfig.cache
+C:\Users\asus\Desktop\10062024\PB201Tupples\obj\Debug\net8.0\ref\PB201Tupples.dll

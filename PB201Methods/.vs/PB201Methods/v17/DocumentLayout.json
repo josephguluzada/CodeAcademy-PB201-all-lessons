@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PB201Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73964DB9-6CF4-4830-B103-B1DC5305D95F}|PB201Methods\\PB201Methods.csproj|c:\\users\\asus\\desktop\\pb201methods\\pb201methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73964DB9-6CF4-4830-B103-B1DC5305D95F}|PB201Methods\\PB201Methods.csproj|solutionrelative:pb201methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201Methods\\PB201Methods\\Program.cs",
+              "RelativeDocumentMoniker": "PB201Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201Methods\\PB201Methods\\Program.cs",
+              "RelativeToolTip": "PB201Methods\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:28:54.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

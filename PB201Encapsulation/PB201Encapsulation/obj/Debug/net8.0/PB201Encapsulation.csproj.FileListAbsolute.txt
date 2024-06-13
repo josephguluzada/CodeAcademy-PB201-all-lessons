@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\bin\Debug\net8.0\PB201Encapsulation.exe
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\bin\Debug\net8.0\PB201Encapsulation.deps.json
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\bin\Debug\net8.0\PB201Encapsulation.runtimeconfig.json
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\bin\Debug\net8.0\PB201Encapsulation.dll
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\bin\Debug\net8.0\PB201Encapsulation.pdb
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.dll
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\refint\PB201Encapsulation.dll
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.pdb
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\PB201Encapsulation.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201Encapsulation\PB201Encapsulation\obj\Debug\net8.0\ref\PB201Encapsulation.dll

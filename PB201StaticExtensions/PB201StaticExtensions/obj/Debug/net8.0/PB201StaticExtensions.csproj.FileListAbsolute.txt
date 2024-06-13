@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\bin\Debug\net8.0\PB201StaticExtensions.exe
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\bin\Debug\net8.0\PB201StaticExtensions.deps.json
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\bin\Debug\net8.0\PB201StaticExtensions.runtimeconfig.json
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\bin\Debug\net8.0\PB201StaticExtensions.dll
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\bin\Debug\net8.0\PB201StaticExtensions.pdb
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.dll
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\refint\PB201StaticExtensions.dll
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.pdb
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\PB201StaticExtensions.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201StaticExtensions\PB201StaticExtensions\obj\Debug\net8.0\ref\PB201StaticExtensions.dll

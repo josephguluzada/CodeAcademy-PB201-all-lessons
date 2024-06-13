@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\10062024\Structs\bin\Debug\net8.0\Structs.exe
+C:\Users\asus\Desktop\10062024\Structs\bin\Debug\net8.0\Structs.deps.json
+C:\Users\asus\Desktop\10062024\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+C:\Users\asus\Desktop\10062024\Structs\bin\Debug\net8.0\Structs.dll
+C:\Users\asus\Desktop\10062024\Structs\bin\Debug\net8.0\Structs.pdb
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.dll
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\refint\Structs.dll
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.pdb
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+C:\Users\asus\Desktop\10062024\Structs\obj\Debug\net8.0\ref\Structs.dll

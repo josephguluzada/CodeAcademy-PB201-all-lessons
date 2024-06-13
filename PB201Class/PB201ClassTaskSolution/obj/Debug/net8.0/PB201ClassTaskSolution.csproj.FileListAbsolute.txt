@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\bin\Debug\net8.0\PB201ClassTaskSolution.exe
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\bin\Debug\net8.0\PB201ClassTaskSolution.deps.json
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\bin\Debug\net8.0\PB201ClassTaskSolution.runtimeconfig.json
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\bin\Debug\net8.0\PB201ClassTaskSolution.dll
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\bin\Debug\net8.0\PB201ClassTaskSolution.pdb
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.dll
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\refint\PB201ClassTaskSolution.dll
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.pdb
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\PB201ClassTaskSolution.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201Class\PB201ClassTaskSolution\obj\Debug\net8.0\ref\PB201ClassTaskSolution.dll

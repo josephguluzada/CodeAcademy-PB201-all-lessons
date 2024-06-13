@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\bin\Debug\net8.0\PB201Delegates.exe
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\bin\Debug\net8.0\PB201Delegates.deps.json
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\bin\Debug\net8.0\PB201Delegates.runtimeconfig.json
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\bin\Debug\net8.0\PB201Delegates.dll
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\bin\Debug\net8.0\PB201Delegates.pdb
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.AssemblyInfo.cs
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.dll
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\refint\PB201Delegates.dll
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.pdb
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\PB201Delegates.genruntimeconfig.cache
+C:\Users\asus\Desktop\ShopERP\PB201Delegates\obj\Debug\net8.0\ref\PB201Delegates.dll

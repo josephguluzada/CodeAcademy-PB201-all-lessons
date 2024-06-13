@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\bin\Debug\net8.0\PB201Interfaces.exe
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\bin\Debug\net8.0\PB201Interfaces.deps.json
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\bin\Debug\net8.0\PB201Interfaces.runtimeconfig.json
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\bin\Debug\net8.0\PB201Interfaces.dll
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\bin\Debug\net8.0\PB201Interfaces.pdb
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.dll
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\refint\PB201Interfaces.dll
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.pdb
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\PB201Interfaces.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201Abstraction\PB201Interfaces\obj\Debug\net8.0\ref\PB201Interfaces.dll

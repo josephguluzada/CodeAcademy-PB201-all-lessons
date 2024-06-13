@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|c:\\users\\asus\\desktop\\pb201upcastingdowncasting\\pb201exceptions\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|solutionrelative:pb201exceptions\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|c:\\users\\asus\\desktop\\pb201upcastingdowncasting\\pb201exceptions\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|solutionrelative:pb201exceptions\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|c:\\users\\asus\\desktop\\pb201upcastingdowncasting\\pb201exceptions\\models\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|solutionrelative:pb201exceptions\\models\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|c:\\users\\asus\\desktop\\pb201upcastingdowncasting\\pb201exceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|solutionrelative:pb201exceptions\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|c:\\users\\asus\\desktop\\pb201upcastingdowncasting\\pb201exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3046E8BD-6D04-47AB-992A-4281554E9D4E}|PB201Exceptions\\PB201Exceptions.csproj|solutionrelative:pb201exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "PB201Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Program.cs",
+              "RelativeToolTip": "PB201Exceptions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:51:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "PB201Exceptions\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\Group.cs",
+              "RelativeToolTip": "PB201Exceptions\\Models\\Group.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:35:13.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PB201Exceptions\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\Student.cs",
+              "RelativeToolTip": "PB201Exceptions\\Models\\Student.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:32:54.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PB201Exceptions\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\User.cs",
+              "RelativeToolTip": "PB201Exceptions\\Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:25:53.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\IAccount.cs",
+              "RelativeDocumentMoniker": "PB201Exceptions\\Models\\IAccount.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\PB201UpcastingDowncasting\\PB201Exceptions\\Models\\IAccount.cs",
+              "RelativeToolTip": "PB201Exceptions\\Models\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:25:09.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

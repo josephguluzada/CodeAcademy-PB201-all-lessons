@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\bin\Debug\net8.0\PB201Methods.exe
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\bin\Debug\net8.0\PB201Methods.deps.json
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\bin\Debug\net8.0\PB201Methods.runtimeconfig.json
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\bin\Debug\net8.0\PB201Methods.dll
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\bin\Debug\net8.0\PB201Methods.pdb
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.dll
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\refint\PB201Methods.dll
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.pdb
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\PB201Methods.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201Methods\PB201Methods\obj\Debug\net8.0\ref\PB201Methods.dll

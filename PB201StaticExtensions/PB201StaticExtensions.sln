@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB201StaticExtensions", "PB201StaticExtensions\PB201StaticExtensions.csproj", "{5F43874A-5DC4-4D41-BCD8-977786B98BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTask", "ClassTask\ClassTask.csproj", "{3B5E7B80-DAB9-43BA-82E0-982CF26DCCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F43874A-5DC4-4D41-BCD8-977786B98BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F43874A-5DC4-4D41-BCD8-977786B98BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F43874A-5DC4-4D41-BCD8-977786B98BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F43874A-5DC4-4D41-BCD8-977786B98BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5E7B80-DAB9-43BA-82E0-982CF26DCCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5E7B80-DAB9-43BA-82E0-982CF26DCCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5E7B80-DAB9-43BA-82E0-982CF26DCCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5E7B80-DAB9-43BA-82E0-982CF26DCCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53F0ECE-8FD8-45FD-9492-807F542FE46E}
+	EndGlobalSection
+EndGlobal

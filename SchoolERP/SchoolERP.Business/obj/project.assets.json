@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SchoolERP.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ShcoolERP.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SchoolERP.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SchoolERP.Data.dll": {}
+        }
+      },
+      "ShcoolERP.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ShcoolERP.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShcoolERP.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolERP.Data/1.0.0": {
+      "type": "project",
+      "path": "../SchoolERP.Data/SchoolERP.Data.csproj",
+      "msbuildProject": "../SchoolERP.Data/SchoolERP.Data.csproj"
+    },
+    "ShcoolERP.Core/1.0.0": {
+      "type": "project",
+      "path": "../ShcoolERP.Core/ShcoolERP.Core.csproj",
+      "msbuildProject": "../ShcoolERP.Core/ShcoolERP.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SchoolERP.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\SchoolERP\\SchoolERP.Business\\SchoolERP.Business.csproj",
+      "projectName": "SchoolERP.Business",
+      "projectPath": "C:\\Users\\asus\\Desktop\\SchoolERP\\SchoolERP.Business\\SchoolERP.Business.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\SchoolERP\\SchoolERP.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\asus\\Desktop\\SchoolERP\\SchoolERP.Data\\SchoolERP.Data.csproj": {
+              "projectPath": "C:\\Users\\asus\\Desktop\\SchoolERP\\SchoolERP.Data\\SchoolERP.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
